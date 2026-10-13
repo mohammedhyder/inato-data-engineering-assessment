@@ -1,0 +1,9 @@
+{
+    "id": "92ea3b8a-e9d6-406f-a311-f3e4fd48f681",
+    "therapeutic_area": "infectious diseases",
+    "created_at": "2023-04-25 00:15:41",
+    "site": {
+        "name": "Lyon Medical Center",
+        "category": "community"
+    }
+}

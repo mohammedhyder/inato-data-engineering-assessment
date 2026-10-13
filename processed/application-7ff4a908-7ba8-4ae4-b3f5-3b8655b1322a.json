@@ -1,0 +1,9 @@
+{
+    "id": "7ff4a908-7ba8-4ae4-b3f5-3b8655b1322a",
+    "therapeutic_area": "infectious diseases",
+    "created_at": "2023-01-01 12:09:10",
+    "site": {
+        "name": "Lisbon University Hospital",
+        "category": "academic"
+    }
+}

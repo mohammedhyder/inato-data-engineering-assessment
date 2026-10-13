@@ -1,0 +1,9 @@
+{
+    "id": "5a77107d-75e9-4016-bdb5-4b374e56fcbc",
+    "therapeutic_area": "oncology",
+    "created_at": "2023-01-06 13:17:48",
+    "site": {
+        "name": "Los Angeles",
+        "category": "network"
+    }
+}

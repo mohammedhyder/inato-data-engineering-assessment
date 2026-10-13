@@ -1,0 +1,9 @@
+{
+    "id": "9871bb8f-d491-4a61-8893-deb49942634b",
+    "therapeutic_area": "oncology",
+    "created_at": "2023-04-20 06:01:59",
+    "site": {
+        "name": "New York University Hospital",
+        "category": "academic"
+    }
+}

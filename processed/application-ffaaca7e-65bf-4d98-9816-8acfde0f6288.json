@@ -1,0 +1,9 @@
+{
+    "id": "ffaaca7e-65bf-4d98-9816-8acfde0f6288",
+    "therapeutic_area": "pulmonology",
+    "created_at": "2023-03-22 20:10:52",
+    "site": {
+        "name": "Lisbon University Hospital",
+        "category": "academic"
+    }
+}

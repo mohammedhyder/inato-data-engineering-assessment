@@ -1,0 +1,9 @@
+{
+    "id": "dd7902c8-7da2-415b-b45d-7a88547c56f9",
+    "therapeutic_area": "pulmonology",
+    "created_at": "2023-05-14 01:39:42",
+    "site": {
+        "name": "Los Angeles",
+        "category": "network"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "id": "e0a99518-0bdc-4ad5-8dd4-36c6ba107031",
+    "therapeutic_area": "pulmonology",
+    "created_at": "2023-05-10 14:36:09",
+    "site": {
+        "name": "New York University Hospital",
+        "category": "academic"
+    }
+}

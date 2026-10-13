@@ -1,0 +1,9 @@
+{
+    "id": "e63fa526-0360-4ab8-82a9-d5a2ce512eec",
+    "therapeutic_area": "oncology",
+    "created_at": "2023-04-12 10:13:41",
+    "site": {
+        "name": "Lisbon University Hospital",
+        "category": "academic"
+    }
+}

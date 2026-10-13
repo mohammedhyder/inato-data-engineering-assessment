@@ -1,0 +1,9 @@
+{
+    "id": "57668ce8-5737-4c53-856a-0a1e07f49e9d",
+    "therapeutic_area": "pulmonology",
+    "created_at": "2023-04-07 23:04:27",
+    "site": {
+        "name": "Lyon Medical Center",
+        "category": "community"
+    }
+}

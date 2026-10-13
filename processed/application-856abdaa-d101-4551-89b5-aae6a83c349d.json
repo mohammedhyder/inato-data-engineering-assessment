@@ -1,0 +1,9 @@
+{
+    "id": "856abdaa-d101-4551-89b5-aae6a83c349d",
+    "therapeutic_area": "oncology",
+    "created_at": "2023-03-24 20:26:25",
+    "site": {
+        "name": "Lyon Medical Center",
+        "category": "community"
+    }
+}
